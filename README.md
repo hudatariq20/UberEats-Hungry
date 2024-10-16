@@ -1,16 +1,16 @@
-# uber_eats
+# 🛵 Uber Eats Clone Template
 
-A new Flutter project.
+## Project Overview
 
-## Getting Started
+This project is a simple Uber Eats-style mobile application built with Flutter, utilizing the **BLoC pattern for state management**, **Dart**, and **Freezed** for data models and immutability. The app features a homepage with food categories, featured restaurants, nearby shops, and popular restaurants, along with a detailed page for individual featured restaurants showing menu items..
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 📱 Features
+* Home Page:
+   * Food Categories: Displays a list of food categories such as "Burgers", "Pizza", "Desserts", etc.
+  * Featured Restaurants: Showcases restaurants that are highlighted for promotions or popularity.
+  * Shops Nearby: Displays nearby restaurants and shops based on the user’s location.
+  * Popular Restaurants: Lists restaurants that are trending or have high user ratings.
+* Restaurant Detail Page:
+     * Shows a specific restaurant’s menu.
+     * Lists menu items with descriptions and prices.
+     * Includes details like restaurant name, rating, and cuisine.
