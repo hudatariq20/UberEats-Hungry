@@ -1,4 +1,4 @@
- 🛵 Uber Eats Clone Template
+# 🛵 Uber Eats Clone Template
 
 ## Project Overview
 
@@ -16,9 +16,7 @@ This project is a simple Uber Eats-style mobile application built with Flutter, 
      * Includes details like restaurant name, rating, and cuisine.
 
 
-
 ## 🎨 App Screens
-
 
  <table>
   <tr>
@@ -27,9 +25,9 @@ This project is a simple Uber Eats-style mobile application built with Flutter, 
      <td>Home Screen [Featured, Popular Restaurants & Shops]</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/3ae7aca6-5f78-40ff-bd77-e075832dd02f" width=250 height=500></td>
-    <td><img src="https://github.com/user-attachments/assets/662bb890-baba-4153-b099-eb98eaf11553" width=250 height=500></td>
-    <td><img src="https://github.com/user-attachments/assets/220f4c27-5a8b-4554-aab0-4ba56e3f835d" width=250 height=500></td>
+    <td><img src="https://github.com/user-attachments/assets/b690c4fa-5c49-42a1-94d9-666b32a06f8c" width=250 height=500></td>
+    <td><img src="https://github.com/user-attachments/assets/7f9ee62e-320a-4b4d-bcb2-eef4be33798c" width=250 height=500></td>
+    <td><img src="https://github.com/user-attachments/assets/843072f5-da11-451b-8e23-3eee47de9b7f" width=250 height=500></td>
   </tr>
  </table>
   <table>
@@ -39,7 +37,7 @@ This project is a simple Uber Eats-style mobile application built with Flutter, 
     
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ee7f7d9b-5c9c-499e-b126-7425e30b3975" width=250 height=500></td>
-    <td><img src="https://github.com/user-attachments/assets/89370b37-1948-479b-a5a6-cb74bad8041f" width=250 height=500>
+    <td><img src="https://github.com/user-attachments/assets/4e1cf53c-f258-4fb9-a1ff-9759ffa721ce" width=250 height=500></td>
+    <td><img src="https://github.com/user-attachments/assets/a40f4b96-68a1-4328-a196-38b17a97283a" width=250 height=500>
   </tr>
  </table>
