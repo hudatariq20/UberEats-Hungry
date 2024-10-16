@@ -20,9 +20,9 @@ This project is a simple Uber Eats-style mobile application built with Flutter, 
 
  <table>
   <tr>
-     <td>Home Screen [Categories & Filters ]</td>
+     <td>[Categories & Filters ]</td>
      <td>Apply Rate Filter</td>
-     <td>Home Screen [Featured, Popular Restaurants & Shops]</td>
+     <td>[Featured, Popular Restaurants & Shops]</td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/b690c4fa-5c49-42a1-94d9-666b32a06f8c" width=250 height=500></td>
